@@ -47,6 +47,18 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
+## Screenshots:
+
+## iOS
+<img width="300" alt="Screenshot 2024-04-29 at 10 12 12 AM" src="https://github.com/jevvilla/contacts/assets/7031018/4b876cd6-7915-4313-8be3-4f5bb4df233c">
+<img width="300" alt="Screenshot 2024-04-29 at 10 12 12 AM" src="https://github.com/jevvilla/contacts/assets/7031018/78dfbebb-71f7-435c-8905-2664760d77c0">
+<br />
+
+## Android
+<img width="300" alt="Screenshot 2024-04-29 at 10 12 02 AM" src="https://github.com/jevvilla/contacts/assets/7031018/bf9971e7-6864-46a2-a954-c04d93676205">
+<img width="300" alt="Screenshot 2024-04-29 at 10 12 12 AM" src="https://github.com/jevvilla/contacts/assets/7031018/83903f7c-67ae-4114-926f-4722b2aeac36">
+
+
 ## Step 3: Modifying your App
 
 Now that you have successfully run the app, let's modify it.
